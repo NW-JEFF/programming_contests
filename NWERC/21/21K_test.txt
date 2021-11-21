@@ -1,0 +1,34 @@
+6
+4
+sports any 1
+black left 6
+white right 6
+black any 1
+4
+sports any 1
+black left 6
+white right 6
+black right 7
+4
+black any 1
+black left 6
+white right 6
+sports any 1
+5
+sports any 1
+black left 6
+white right 6
+black right 7
+black any 1
+5
+sports any 1
+black left 6
+black any 1
+white right 6
+black right 7
+5
+black any 1
+sports any 1
+black left 6
+white right 6
+black right 7

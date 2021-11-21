@@ -1,3 +1,3 @@
 import os
 
-os.system('cat 21B_test.txt | python 21B.py')
+os.system('cat 21J_test.txt | python 21J.py')
